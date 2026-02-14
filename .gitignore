@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+*.so
+
+# Virtual env
+.venv/
+venv/
+ENV/
+env/
+
+# PyCharm / IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env secrets
+.env
+**/.env
+
+# Logs
+*.log
+aula5.py
+aula5b.py
+aula6.py
+ex00.py
